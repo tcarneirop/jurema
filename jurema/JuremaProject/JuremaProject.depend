@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1292193942 source:/media/SAMSUNG/dev/jurema/buscas.cpp
+	"global.h"
+	<stdio.h>
+	<string.h>
+	<ctime>
+	"buscas.h"
+
+1292197560 /media/SAMSUNG/dev/jurema/buscas.h
+
+1292193964 source:/media/SAMSUNG/dev/jurema/dfs_bnb.cpp
+	"global.h"
+	"dfs_bnb.h"
+	<stdio.h>
+	<string.h>
+	<ctime>
+	"buscas.h"
+
+1284971114 /media/SAMSUNG/dev/jurema/dfs_bnb.h
+
+1292201716 source:/media/SAMSUNG/dev/jurema/aux.cpp
+	"global.h"
+	"aux.h"
+	<stdio.h>
+	<stdlib.h>
+
+1292203462 /media/SAMSUNG/dev/jurema/global.h
+
+1292197388 /media/SAMSUNG/dev/jurema/aux.h
+
+1292204408 source:/media/SAMSUNG/dev/jurema/buscas_omp.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<list>
+	<queue>
+	<ctime>
+	"global.h"
+	<omp.h>
+	"buscas_omp.h"
+	"aux.h"
+
+1292197376 /media/SAMSUNG/dev/jurema/buscas_omp.h
+
+1292552138 source:/media/SAMSUNG/dev/jurema/jurema.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	"global.h"
+	"aux.h"
+	"upperbounds.h"
+	"lowerbounds.h"
+	"juremasearch.h"
+	"jurematronco.h"
+	"dfs_bnb.h"
+	"buscas_omp.h"
+
+1292194810 /media/SAMSUNG/dev/jurema/upperbounds.h
+
+1292560443 /media/SAMSUNG/dev/jurema/lowerbounds.h
+
+1292197580 /media/SAMSUNG/dev/jurema/juremasearch.h
+
+1292197588 /media/SAMSUNG/dev/jurema/jurematronco.h
+
+1292194812 source:/media/SAMSUNG/dev/jurema/juremasearch.cpp
+	"global.h"
+	<stdio.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	"buscas.h"
+	"aux.h"
+	"juremasearch.h"
+
+1292194812 source:/media/SAMSUNG/dev/jurema/jurematronco.cpp
+	"global.h"
+	<stdio.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	"aux.h"
+	"buscas.h"
+	"jurematronco.h"
+	"juremasearch.h"
+
+1292202684 source:/media/SAMSUNG/dev/jurema/little_et_al.cpp
+	"global.h"
+	"little_et_al.h"
+
+1292197658 /media/SAMSUNG/dev/jurema/little_et_al.h
+
+1292194812 source:/media/SAMSUNG/dev/jurema/upperbounds.cpp
+	"global.h"
+	<stdio.h>
+	<string.h>
+	"aux.h"
+	"upperbounds.h"
+
+1292194812 source:/media/SAMSUNG/dev160311_2336/jurema/jurematronco.cpp
+	"global.h"
+	<stdio.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	"aux.h"
+	"buscas.h"
+	"jurematronco.h"
+	"juremasearch.h"
+
+1292203462 /media/SAMSUNG/dev160311_2336/jurema/global.h
+
+1292197388 /media/SAMSUNG/dev160311_2336/jurema/aux.h
+
+1292197560 /media/SAMSUNG/dev160311_2336/jurema/buscas.h
+
+1292197588 /media/SAMSUNG/dev160311_2336/jurema/jurematronco.h
+
+1292197580 /media/SAMSUNG/dev160311_2336/jurema/juremasearch.h
+
+1292202684 source:/media/SAMSUNG/dev160311_2336/jurema/little_et_al.cpp
+	"global.h"
+	"little_et_al.h"
+
+1292197658 /media/SAMSUNG/dev160311_2336/jurema/little_et_al.h
+

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="JuremaProject" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/JuremaProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/JuremaProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-O2" />
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../Makefile" />
+		<Unit filename="../assig.h" />
+		<Unit filename="../aux.cpp" />
+		<Unit filename="../aux.h" />
+		<Unit filename="../befs.cpp" />
+		<Unit filename="../befs.h" />
+		<Unit filename="../buscas.cpp" />
+		<Unit filename="../buscas.h" />
+		<Unit filename="../buscas_omp.cpp" />
+		<Unit filename="../buscas_omp.h" />
+		<Unit filename="../dfs_bnb.cpp" />
+		<Unit filename="../dfs_bnb.h" />
+		<Unit filename="../global.h" />
+		<Unit filename="../grafo_esparso.cpp" />
+		<Unit filename="../grafo_esparso.h" />
+		<Unit filename="../jurema.cpp" />
+		<Unit filename="../juremasearch.cpp" />
+		<Unit filename="../juremasearch.h" />
+		<Unit filename="../jurematronco.cpp" />
+		<Unit filename="../jurematronco.h" />
+		<Unit filename="../little_et_al.cpp" />
+		<Unit filename="../little_et_al.h" />
+		<Unit filename="../lowerbounds.cpp" />
+		<Unit filename="../lowerbounds.h" />
+		<Unit filename="../upperbounds.cpp" />
+		<Unit filename="../upperbounds.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

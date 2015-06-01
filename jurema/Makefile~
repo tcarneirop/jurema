@@ -1,0 +1,5 @@
+all: 
+	g++ -c assignment.cpp
+	g++ jurema.cpp assignment.o -o jurema.out 
+clean:
+	rm *.o jurema

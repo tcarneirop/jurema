@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="../Makefile" open="0" top="0" tabpos="13">
+		<Cursor position="409" topLine="0" />
+	</File>
+	<File name="../aux.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="903" topLine="15" />
+	</File>
+	<File name="../aux.h" open="0" top="0" tabpos="3">
+		<Cursor position="590" topLine="10" />
+	</File>
+	<File name="../befs.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="2537" topLine="81" />
+	</File>
+	<File name="../befs.h" open="1" top="0" tabpos="3">
+		<Cursor position="331" topLine="0" />
+	</File>
+	<File name="../buscas.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="701" topLine="0" />
+	</File>
+	<File name="../buscas.h" open="0" top="0" tabpos="5">
+		<Cursor position="1081" topLine="53" />
+	</File>
+	<File name="../buscas_omp.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="3313" topLine="166" />
+	</File>
+	<File name="../buscas_omp.h" open="0" top="0" tabpos="6">
+		<Cursor position="106" topLine="0" />
+	</File>
+	<File name="../dfs_bnb.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="926" topLine="17" />
+	</File>
+	<File name="../dfs_bnb.h" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../global.h" open="0" top="0" tabpos="5">
+		<Cursor position="347" topLine="0" />
+	</File>
+	<File name="../grafo_esparso.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="1267" topLine="0" />
+	</File>
+	<File name="../grafo_esparso.h" open="0" top="0" tabpos="16">
+		<Cursor position="90" topLine="0" />
+	</File>
+	<File name="../jurema.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="4650" topLine="133" />
+	</File>
+	<File name="../juremasearch.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="2215" topLine="0" />
+	</File>
+	<File name="../juremasearch.h" open="0" top="0" tabpos="4">
+		<Cursor position="74" topLine="0" />
+	</File>
+	<File name="../jurematronco.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="19" topLine="153" />
+	</File>
+	<File name="../jurematronco.h" open="0" top="0" tabpos="16">
+		<Cursor position="155" topLine="0" />
+	</File>
+	<File name="../little_et_al.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="1187" topLine="20" />
+	</File>
+	<File name="../little_et_al.h" open="0" top="0" tabpos="17">
+		<Cursor position="153" topLine="0" />
+	</File>
+	<File name="../lowerbounds.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="4646" topLine="169" />
+	</File>
+	<File name="../lowerbounds.h" open="0" top="0" tabpos="10">
+		<Cursor position="484" topLine="6" />
+	</File>
+	<File name="../upperbounds.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="1602" topLine="0" />
+	</File>
+	<File name="../upperbounds.h" open="0" top="0" tabpos="11">
+		<Cursor position="243" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

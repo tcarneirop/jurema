@@ -1,0 +1,9 @@
+#ifndef JUREMASEARCH_H
+#define JUREMASEARCH_H
+
+extern int lbVector[MAX+1][MAX+1];
+extern int lbOrder[MAX+1];
+
+void jurema_tronco();
+
+#endif

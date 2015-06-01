@@ -1,0 +1,29 @@
+#!/bin/bash
+
+
+
+#./programa && kill `pidof -o %PPID sleep` & 
+
+
+# matar o sleep somente oprograma acabar antes dos 5 segundos, jah que liber ao shell e o sleep dormirá 5
+
+#sleep 5  && kill `pidof -o %PPID programa` 
+
+# Mata o processo que temnome de "programa" somente se o sleep dormir seus 5 e retornar true.Não libera o shell
+
+
+time ./jurema.out -j < /media/SAMSUNG/dev260411_0304/instancias/10.txt > teste10 && kill `pidof -o %PPID sleep` &
+
+sleep 5  && kill `pidof -o %PPID jurema.out`
+
+time ./jurema.out -j < /media/SAMSUNG/dev260411_0304/instancias/50.txt && kill `pidof -o %PPID sleep` &
+
+sleep 5 && kill `pidof -o %PPID jurema.out`
+
+
+ 
+
+
+
+
+
